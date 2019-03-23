@@ -1,6 +1,6 @@
 # Apple Watch Breathe Animation 苹果手表呼吸动画
 
-comparison:
+comparison:   
 ![](preview.gif)
 
 更多信息请参考：
